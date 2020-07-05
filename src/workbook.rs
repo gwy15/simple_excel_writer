@@ -363,7 +363,7 @@ impl Workbook {
             xmlns:vt="http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes">
     <fonts count="1">
         <font>
-            <sz val="12"/>
+            <sz val="10"/>
             <color theme="1"/>
             <name val="Calibri"/>
             <family val="2"/>
